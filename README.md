@@ -14,7 +14,7 @@ and fact_gross_price. The input data consists of sales data from Fiscal Year 201
 Utilized SQL to extract relevant data from internal databases, transformed the results into clear reports, and presented these actionable insights to top level
 management to aid in strategic decision making in areas such as promotional strategies and resource allocation.
 
-##Technical Skills:
+## Technical Skills:
 - [x] Wrote SQL queries to merge sales data from fact tables and enrich them with product and pricing details via joins with dimension tables.
 - [x] Derived fiscal years dynamically from raw date fields using custom logics.
 - [x] Created temporary tables and CTEs to structure complex queries for layered analysis (e.g., forecast accuracy breakdowns).
