@@ -51,14 +51,12 @@ The complete drop in forecast accuracy for Netherlands-based customers in 2021, 
 
 ## Top 10 Markets by Net Sales
 <p align="center">
-  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics
-    Analytics/blob/c2167230c472761e2257dd553fc82ea4af630bd0/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Markets%20by%20Net%20Sales.png'>
+  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics-Analytics/blob/651273aa580a6d98b322a8df72a5d27ca3fbfe00/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Markets%20by%20Net%20Sales.png'>
 </p>
 
 ## Top 10 Customers by Revenue Contribution
 <p align="center">
-  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics
-    Analytics/blob/c2167230c472761e2257dd553fc82ea4af630bd0/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Customers%20by%20Revenue%20Contribution.png'>
+  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics-Analytics/blob/651273aa580a6d98b322a8df72a5d27ca3fbfe00/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Customers%20by%20Revenue%20Contribution.png'>
 </p>
 
 A. Finance Analytics:
