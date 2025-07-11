@@ -48,6 +48,19 @@ and personal laptops in the Personal & Corporate segment. These products signifi
 The complete drop in forecast accuracy for Netherlands-based customers in 2021, indicating a significant issue with the forecasting models in that region.
 
 ## Reports:
+
+## Top 10 Markets by Net Sales
+<p align="center">
+  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics
+    Analytics/blob/c2167230c472761e2257dd553fc82ea4af630bd0/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Markets%20by%20Net%20Sales.png'>
+</p>
+
+## Top 10 Customers by Revenue Contribution
+<p align="center">
+  <img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics
+    Analytics/blob/c2167230c472761e2257dd553fc82ea4af630bd0/Top%20Customers%2C%20Markets%20%26%20Products/Top%2010%20Customers%20by%20Revenue%20Contribution.png'
+</p>
+
 A. Finance Analytics:
 1. [Chroma FY21 Sales Report](https://github.com/SatyapriyaDasgupta/SQL-Consumer-Electronics-Analytics/blob/44072f808311f8fdb2e90d94c54cfe1a0235df41/Finance%20Analytics/Chroma%20FY21%20Sales%20Report.csv)
 
